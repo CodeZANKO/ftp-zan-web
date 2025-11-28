@@ -1,0 +1,5 @@
+{
+  "name": "FTP/SFTP Security Manager",
+  "description": "A modern GUI for FTP/SFTP connection testing, brute-force simulation, and AI-powered security analysis.",
+  "requestFramePermissions": []
+}
