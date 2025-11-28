@@ -1,5 +1,5 @@
 {
-  "name": "FTP/SFTP Security Manager",
-  "description": "A modern GUI for FTP/SFTP connection testing, brute-force simulation, and AI-powered security analysis.",
+  "name": "NetSentry SecOps",
+  "description": "Professional Security Operations Dashboard for FTP/SFTP Analysis, Brute Force Simulation, and Infrastructure Auditing.",
   "requestFramePermissions": []
 }
